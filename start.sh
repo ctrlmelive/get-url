@@ -1,4 +1,6 @@
 #!/bin/bash
+echo "download"
+apt install curl
 sleep 10
 while [ "a" = "a" ]
 do
