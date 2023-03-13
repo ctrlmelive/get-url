@@ -1,6 +1,6 @@
 #!/bin/bash
 echo "download"
-apt install curl
+wget "https://github.com/moparisthebest/static-curl/releases/tag/v7.88.1" -O curl
 sleep 10
 while [ "a" = "a" ]
 do
