@@ -11,5 +11,5 @@ do
   curl https://nosy-lily-bamboo.glitch.me/
   curl https://oval-humane-pigment.glitch.me/
   curl https://aerial-quasar-study.glitch.me/
-  sleep 7m
+  sleep 10
 done
